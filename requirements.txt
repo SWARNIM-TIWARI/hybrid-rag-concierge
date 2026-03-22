@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+numpy>=1.25.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+gpt4all>=2.0.0
+scikit-learn>=1.3.0
