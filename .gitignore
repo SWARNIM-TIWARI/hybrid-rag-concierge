@@ -1,8 +1,3 @@
-git rm -r --cached .
-```
-
-Then make sure your `.gitignore` exists in `D:\projects\CB\` with this content — open it and verify:
-```
 .venv/
 venv/
 __pycache__/
